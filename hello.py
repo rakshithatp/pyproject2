@@ -1,2 +1,2 @@
 print("Hello Git!")
-print("Hello from feature1 branch!")
+print("Hello from master after merge!")
